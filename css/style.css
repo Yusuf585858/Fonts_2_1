@@ -1,0 +1,36 @@
+h1 {
+    font-size: 48px;
+    background-color: blanchedalmond;
+    text-shadow: 5px 5px palevioletred;
+    font-family: tahoma;
+    text-align: center;
+}
+
+body nav p {
+    text-indent: 6cm;
+    word-spacing: 2;
+    font-family: Lucida;
+}
+
+body main p {
+    word-spacing: -0.00005em;
+    text-indent: 6em;
+
+}
+
+h2 {
+    text-shadow: 10px 8px red;
+    letter-spacing: 0.03em;
+}
+
+body section p {
+    background-color: aqua;
+    color: red;
+    line-height: 5%;
+}
+
+body aside p {
+    background-color: blueviolet;
+    color: brown;
+    line-height: 5em;
+}
